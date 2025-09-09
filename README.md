@@ -1,4 +1,3 @@
-# data-analytics-visualization
 # AdventureWorks Sales & Customer Analysis Dashboard
 # Project Overview
 
